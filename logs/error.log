@@ -1,0 +1,874 @@
+2015-12-05 22:45:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 01:03:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 01:46:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 02:43:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 02:43:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 02:45:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 21:08:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 21:09:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-06 21:09:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 03:01:26 Error: Fatal Error (4): syntax error, unexpected '.', expecting function (T_FUNCTION) in [C:\xampp\htdocs\Cakephp\src\Controller\AppController.php, line 61]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 03:01:30 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '.', expecting function (T_FUNCTION)
+Request URL: /Cakephp/articles/add
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 61)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 03:01:42 Error: Fatal Error (4): syntax error, unexpected '.', expecting function (T_FUNCTION) in [C:\xampp\htdocs\Cakephp\src\Controller\AppController.php, line 61]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 03:01:42 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '.', expecting function (T_FUNCTION)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 61)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 03:02:48 Error: Fatal Error (4): syntax error, unexpected '.', expecting function (T_FUNCTION) in [C:\xampp\htdocs\Cakephp\src\Controller\AppController.php, line 61]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 03:02:49 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '.', expecting function (T_FUNCTION)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 61)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 04:05:59 Error: Fatal Error (4): syntax error, unexpected '.', expecting function (T_FUNCTION) in [C:\xampp\htdocs\Cakephp\src\Controller\AppController.php, line 61]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 04:05:59 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '.', expecting function (T_FUNCTION)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 61)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 04:06:02 Error: Fatal Error (4): syntax error, unexpected '.', expecting function (T_FUNCTION) in [C:\xampp\htdocs\Cakephp\src\Controller\AppController.php, line 61]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 04:06:03 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '.', expecting function (T_FUNCTION)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 61)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 14:32:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 14:47:24 Error: Fatal Error (4): syntax error, unexpected '.', expecting function (T_FUNCTION) in [C:\xampp\htdocs\Cakephp\src\Controller\AppController.php, line 73]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 14:47:24 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '.', expecting function (T_FUNCTION)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 73)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 14:49:20 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 14:49:37 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 14:49:50 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 14:51:16 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 14:54:05 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 14:54:17 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 14:56:55 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 14:58:06 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:11:15 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:11:20 Error: Fatal Error (4): syntax error, unexpected ''articles'' (T_CONSTANT_ENCAPSED_STRING) in [C:\xampp\htdocs\Cakephp\src\Controller\ArticlesController.php, line 20]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 15:11:20 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''articles'' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 20)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 15:11:33 Error: Fatal Error (4): syntax error, unexpected ''articles'' (T_CONSTANT_ENCAPSED_STRING) in [C:\xampp\htdocs\Cakephp\src\Controller\ArticlesController.php, line 20]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 15:11:34 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''articles'' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 20)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 15:12:21 Error: Fatal Error (4): syntax error, unexpected ''articles'' (T_CONSTANT_ENCAPSED_STRING) in [C:\xampp\htdocs\Cakephp\src\Controller\ArticlesController.php, line 20]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 15:12:22 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''articles'' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 20)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 15:12:49 Error: Fatal Error (4): syntax error, unexpected ''), $this->Articles->find('' (T_CONSTANT_ENCAPSED_STRING) in [C:\xampp\htdocs\Cakephp\src\Controller\ArticlesController.php, line 20]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2015-12-08 15:12:50 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''), $this->Articles->find('' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /Cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 20)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-12-08 15:13:43 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:20:02 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:20:17 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:22:13 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:25:10 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:28:09 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:29:00 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:29:21 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:36:44 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\login.ctp',
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 15:41:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 15:42:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 15:43:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 15:52:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 15:58:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/cakephp/
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 15:59:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 21:47:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 21:47:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 21:48:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 21:49:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/Users
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 21:50:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 21:51:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 21:55:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 22:07:24 Warning: Warning (512): Method Cake\View\Helper\SessionHelper::flash does not exist in [C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\Helper.php, line 138]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 140
+Cake\View\Helper::__call() - CORE\src\View\Helper.php, line 138
+Cake\View\Helper\SessionHelper::flash() - APP/Template\Users\Login.ctp, line 2
+include - APP/Template\Users\Login.ctp, line 2
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 971
+Cake\View\View::_render() - CORE\src\View\View.php, line 931
+Cake\View\View::render() - CORE\src\View\View.php, line 579
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-12-08 22:07:24 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in C:\xampp\htdocs\Cakephp\src\Template\Users\Login.ctp on line 10 and defined in [C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php, line 520]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 140
+Cake\View\Helper\FormHelper::end() - CORE\src\View\Helper\FormHelper.php, line 520
+include - APP/Template\Users\Login.ctp, line 10
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 971
+Cake\View\View::_render() - CORE\src\View\View.php, line 931
+Cake\View\View::render() - CORE\src\View\View.php, line 579
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-12-08 22:08:24 Warning: Warning (512): Method Cake\View\Helper\SessionHelper::flash does not exist in [C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\Helper.php, line 138]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 140
+Cake\View\Helper::__call() - CORE\src\View\Helper.php, line 138
+Cake\View\Helper\SessionHelper::flash() - APP/Template\Users\Login.ctp, line 2
+include - APP/Template\Users\Login.ctp, line 2
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 971
+Cake\View\View::_render() - CORE\src\View\View.php, line 931
+Cake\View\View::render() - CORE\src\View\View.php, line 579
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-12-08 22:08:24 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in C:\xampp\htdocs\Cakephp\src\Template\Users\Login.ctp on line 10 and defined in [C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php, line 520]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 140
+Cake\View\Helper\FormHelper::end() - CORE\src\View\Helper\FormHelper.php, line 520
+include - APP/Template\Users\Login.ctp, line 10
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 971
+Cake\View\View::_render() - CORE\src\View\View.php, line 931
+Cake\View\View::render() - CORE\src\View\View.php, line 579
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-12-08 22:09:37 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /Cakephp/users
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\View.php(576): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-12-08 22:09:42 Warning: Warning (512): Method Cake\View\Helper\SessionHelper::flash does not exist in [C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\Helper.php, line 138]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 140
+Cake\View\Helper::__call() - CORE\src\View\Helper.php, line 138
+Cake\View\Helper\SessionHelper::flash() - APP/Template\Users\Login.ctp, line 2
+include - APP/Template\Users\Login.ctp, line 2
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 971
+Cake\View\View::_render() - CORE\src\View\View.php, line 931
+Cake\View\View::render() - CORE\src\View\View.php, line 579
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-12-08 22:09:42 Warning: Warning (4096): Argument 1 passed to Cake\View\Helper\FormHelper::end() must be of the type array, string given, called in C:\xampp\htdocs\Cakephp\src\Template\Users\Login.ctp on line 10 and defined in [C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php, line 520]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 140
+Cake\View\Helper\FormHelper::end() - CORE\src\View\Helper\FormHelper.php, line 520
+include - APP/Template\Users\Login.ctp, line 10
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 971
+Cake\View\View::_render() - CORE\src\View\View.php, line 931
+Cake\View\View::render() - CORE\src\View\View.php, line 579
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-12-08 22:19:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Login could not be found.
+Exception Attributes: array (
+  'class' => 'Login',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/login
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-12-08 22:31:26 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::edit() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'edit',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /Cakephp/users/edit
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-12-08 22:31:33 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::delete() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'delete',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /Cakephp/users/delete
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp\htdocs\Cakephp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#2 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-12-09 03:41:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CakePhpBlog could not be found.
+Exception Attributes: array (
+  'class' => 'CakePhpBlog',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /Cakephp/CakePhpBlog/debug_kit/toolbar/2a1b88df-6c0f-48d0-9596-d8d65181fee1
+Stack Trace:
+#0 C:\xampp\htdocs\Cakephp\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
